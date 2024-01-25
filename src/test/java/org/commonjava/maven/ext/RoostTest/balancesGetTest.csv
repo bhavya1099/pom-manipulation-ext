@@ -1,0 +1,11 @@
+account-Id,Consent-ID,Content-Type,PSU-ID,statusCode
+1234abcd,consent5678,application/json,psu9012,200
+2345bcde,consent6789,application/xml,psu0123,200
+3456cdef,consent7890,application/json,psu1234,200
+4567defg,consent8901,application/xml,psu2345,200
+5678efgh,consent9012,application/json,psu3456,200
+6789fghi,consent0123,application/xml,psu4567,200
+7890ghij,consent1234,application/json,psu5678,200
+8901hijk,consent2345,application/xml,psu6789,200
+9012ijkl,consent3456,application/json,psu7890,200
+0123jklm,consent4567,application/xml,psu8901,200

@@ -1,0 +1,11 @@
+Consent-ID,withBalance,Content-Type,PSU-ID,statusCode
+123ABC,false,application/json,PSU987,200
+456DEF,true,application/xml,PSU654,401
+789GHI,false,text/plain,PSU321,400
+012JKL,true,application/json,PSU456,200
+345MNO,false,text/html,PSU789,401
+678PQR,true,application/xml,PSU012,400
+901STU,false,application/json,PSU345,200
+234VWX,true,text/plain,PSU678,401
+567YZA,false,application/xml,PSU901,400
+890BCD,true,text/html,PSU234,200
